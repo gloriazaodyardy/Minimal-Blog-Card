@@ -11,15 +11,13 @@
       </div>
       <div class="w-full">
         <div class="flex flex-col gap-5 text-dark-soft">
-          <a href="https://gloriazaodyardy.github.io/Minimal-Blog-Card/" target="_blank" rel="noopener noreferrer"
-            class="text-tag text-center">Live Demo</a>
           <div class="flex flex-col max-w-80 px-4">
             <h1 class="text-title text-black"><b>Embracing Minimalism</b></h1>
             <p class="text-body">From minimalist sculptures to minimalist paintings, this blog will inspire you to
               appreciate the beauty that
               lies in simplicity.</p>
           </div>
-          <p class="text-small w-full px-4 py-5 border-t-2 border-t-light-gray">
+          <p class="text-small w-full px-4 py-5 border-t-2 border-t-gray">
             Annie Spratt
           </p>
         </div>
