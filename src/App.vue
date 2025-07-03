@@ -2,21 +2,21 @@
 </script>
 
 <template>
-  <header class="py-[164px]"></header>
+  <header></header>
   <main>
-    <div class="flex flex-col p-4 max-w-[21rem] rounded-2xl gap-4 shadow-card">
-      <img class="rounded-lg" src="../resources/Cactus@2x.jpg" alt="Cactus image" srcset="../resources/Cactus.jpg">
-      <div class="flex flex-col items-center bg-purple-soft py-1 w-16 rounded-xl text-center">
-        <b class="text-purple text-tag">Design</b>
+    <div class="flex flex-col max-w-[21rem] rounded-2xl shadow-card bg-white">
+      <img class="rounded-3xl p-4" src="../resources/Cactus@2x.jpg" alt="Cactus image" srcset="../resources/Cactus.jpg">
+      <div class="flex flex-col mb-4 mx-4 bg-purple-soft py-1.5 w-16 rounded-xl">
+        <b class="text-purple text-tag text-center">Design</b>
       </div>
       <div class="flex flex-col gap-5 text-dark-soft">
-        <div class="flex flex-col max-w-70">
+        <div class="flex flex-col max-w-80 px-4">
           <h1 class="text-title text-black"><b>Embracing Minimalism</b></h1>
           <p class="text-body">From minimalist sculptures to minimalist paintings, this blog will inspire you to
             appreciate the beauty that
             lies in simplicity.</p>
         </div>
-        <p class="text-small mt-5 mb-1">
+        <p class="text-small w-full px-4 py-5 border-t-2 border-t-light-gray">
           Annie Spratt
         </p>
       </div>
