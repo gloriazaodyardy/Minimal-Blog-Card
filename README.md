@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solution/53843">
       Solution
     </a>
     <span> | </span>
@@ -46,6 +46,7 @@ I learned more about implement box shadow and adding custom theme/`root:` using 
 ### Useful resources
 
 - [Tailwind CSS Docs](https://tailwindcss.com/docs/installation/using-vite).
+- [Using srcset for `<img/>`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/srcset).
 
 ### Built with
 
