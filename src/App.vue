@@ -2,10 +2,10 @@
 </script>
 
 <template>
-  <header class="my-12"></header>
+  <header class="my-11.5"></header>
   <main>
     <div class="flex flex-col rounded-2xl shadow-card bg-white">
-      <img class="max-w-[21rem] max-h-[9.5rem] rounded-3xl p-4" src="../resources/Cactus@2x.jpg" alt="Cactus image" srcset="../resources/Cactus.jpg">
+      <img class="max-w-[21rem] max-h-fit rounded-3xl p-4" src="../resources/Cactus@2x.jpg" alt="Cactus image" srcset="../resources/Cactus.jpg">
       <div class="flex flex-col mb-4 mx-4 bg-purple-soft py-1 px-4 w-16 rounded-xl">
         <b class="text-purple text-tag text-center">Design</b>
       </div>
